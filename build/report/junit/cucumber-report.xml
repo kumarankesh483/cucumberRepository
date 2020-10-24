@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="12.282266">
+<testcase classname="Purchase of the product" name="login and buy product" time="12.282266">
+<system-out><![CDATA[Given User is on the landing page...........................................passed
+When user enter the "vegetable" name and click on the search button.........passed
+Then item should be displayed...............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
